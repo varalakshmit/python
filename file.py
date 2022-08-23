@@ -9,4 +9,4 @@ o=9
 if o==3:
     print("True")
 else :
-    print("false")
+    print("False")
