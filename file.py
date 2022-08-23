@@ -5,3 +5,6 @@ if n==0 :
 else :
     print( "True")
 print("hijoijijh")
+o=9
+if o==3:
+    print("True")
